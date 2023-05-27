@@ -1,1 +1,1 @@
-# dia4-data-manager
+# D4DM - Diablo4 Data Manager
